@@ -10,9 +10,9 @@ Jeśli odpowiedziałeś **TAK** na jedno, lub więcej z tych pytań to mam rozwi
 
 
 ### Przedstawiam jedyny w swoim rodzaju (don't google that) generator kodu XML pod Ankietera USOS.
-*Tak, to jest możliwe!
-Tak, przyjmuję płatności w naturze!
-Nie, nie potrafie spać w nocy...*
+*Tak, to jest możliwe!*
+*Tak, przyjmuję płatności w naturze!*
+*Nie, nie potrafie spać w nocy...*
 
 **W zakładce release [(tutaj piękny)](https://github.com/juleklO/kwsAnkieterGenerator/releases "(tutaj piękny)") ściągasz tylko plik .exe i działasz.**
 
